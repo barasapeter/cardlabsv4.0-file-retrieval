@@ -1,4 +1,4 @@
-# Automated Academic File Retrieval
+# Automated File Retrieval
 
 ## How automatic file retrieval works and how your information is handled
 
